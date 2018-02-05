@@ -1,0 +1,21 @@
+input.item {
+	border: 1px solid #ccc;
+    font-size: 20px;
+    display: grid;
+    clear: left;
+    width: 150px;
+    text-align: left;
+}
+
+select.choose {
+	border: 1px solid #ccc;
+    display: grid;
+    clear: left;
+    width: 100px;
+    text-align: left;
+}
+
+button.btn {
+	border: 3px solid #ccc;
+	background-color: yellow;
+}
